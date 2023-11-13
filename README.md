@@ -31,7 +31,13 @@ Two icons bundle are available :
 
 You can find othes icons bundles here https://icones.js.org/
 
-## Run projet TL;DR
+## Project Setup
+
+```sh
+npm install
+```
+
+## Start projet
 
 Run Nuxt developement server
 
@@ -39,7 +45,7 @@ Run Nuxt developement server
 npm run dev
 ```
 
-Open http://localhost:5174/
+Open http://localhost:3000/
 
 In an new terminal tab run Histoire server
 
@@ -48,12 +54,6 @@ npm run story:dev
 ```
 
 Open http://localhost:6006/
-
-## Project Setup
-
-```sh
-npm install
-```
 
 ## Recommended IDE Setup
 
