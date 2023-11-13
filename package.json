@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "story:dev": "histoire dev",
+    "story:build": "histoire build",
+    "story:preview": "histoire preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.9.4",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "@egoist/tailwindcss-icons": "^1.4.0",
+    "class-variance-authority": "^0.7.0",
+    "nuxt": "3.6.5",
+    "nuxt-font-loader": "^2.3.4"
+  },
+  "dependencies": {
+    "@histoire/plugin-nuxt": "^0.17.4",
+    "@iconify-json/fa6-solid": "^1.1.15",
+    "@iconify-json/heroicons": "^1.1.13"
+  }
+}
