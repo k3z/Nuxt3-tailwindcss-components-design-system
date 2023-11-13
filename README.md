@@ -1,8 +1,6 @@
 # Nuxt3 tailwindcss components design system
 
-In this project, we will be utilizing the powerful combination of Vue3/Nuxt3, tailwindcss, and Histoire (https://histoire.dev/) to build reusable components for a comprehensive design system.
-
-By combining the strengths of Vue3, Tailwindcss, and Histoire, we aim to create a fully functional design system with reusable components that can be easily integrated into various projects. This will not only improve development efficiency but also ensure consistency and maintainability throughout our applications.
+In this project, we will be utilizing the combination of Vue3/Nuxt3, tailwindcss and Histoire (https://histoire.dev/) to build reusable components for a comprehensive design system.
 
 ## Requirements for components design
 
