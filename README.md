@@ -2,6 +2,8 @@
 
 In this project, we will be utilizing the combination of Vue3/Nuxt3, tailwindcss and Histoire (https://histoire.dev/) to build reusable components for a comprehensive design system.
 
+![Texte alternatif](./public/preview.png 'Preview')
+
 ## Requirements for components design
 
 ### Tailwind CSS
