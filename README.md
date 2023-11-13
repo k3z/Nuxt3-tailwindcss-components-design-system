@@ -18,7 +18,7 @@ Plugins
 
 ### Class Variance Authority
 
-CSS-in-TS librariy for the atomic css age. A tool for building type-safe UI components; taking away all the worries of class names and StyleSheet composition. Documentation https://cva.style/docs
+CSS-in-TS library for the atomic css age. A tool for building type-safe UI components; taking away all the worries of class names and StyleSheet composition. Documentation https://cva.style/docs
 
 ### Icons
 
